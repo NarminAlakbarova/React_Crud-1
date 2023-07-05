@@ -1,0 +1,40 @@
+{
+  "managers": [
+    {
+      "id": "5",
+      "name": "Fatime",
+      "surname": "Mammadova",
+      "email": "Fatime@gmail.com"
+    },
+    {
+      "id": "49e7e90c-a7c2-4b3d-a9ba-cf8b1efedb8c",
+      "name": "Whitehead",
+      "surname": "Moreno",
+      "email": "forifegimo@mailinator.com"
+    },
+    {
+      "id": "37621119-2c8e-45ea-95d3-8287f7293241",
+      "name": "Cavid",
+      "surname": "Singleton",
+      "email": "risoreba@mailinator.com"
+    },
+    {
+      "id": "0616a4c2-d74f-470f-87bf-4a3085a4e53b",
+      "name": "Lee",
+      "surname": "Merez",
+      "email": "cemy@mailinator.com"
+    },
+    {
+      "id": "51e2ac59-30eb-4659-a010-501c74aa6205",
+      "name": "Wilkerson",
+      "surname": "Garza",
+      "email": "wyryry@mailinator.com"
+    },
+    {
+      "id": "85176499-c3c1-4001-a61a-7103751b0230",
+      "name": "Minaye",
+      "surname": "Bradford",
+      "email": "Minaye@mailinator.com"
+    }
+  ]
+}

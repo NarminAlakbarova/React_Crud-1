@@ -1,0 +1,22 @@
+form {
+  margin: 2rem auto;
+  max-width: 20rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+}
+.search-inp {
+  width: 300px;
+  padding: 4px 10px;
+  border: none;
+  background-color: #d1d7ee;
+  outline: none;
+}
+.search-inp::placeholder {
+  color: black;
+}
+.nav-container a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
